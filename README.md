@@ -5,7 +5,14 @@ The problem seeks to build a model to predict whether an individual has or will 
 
 CODE:
 
-Data source:
+https://github.com/yunnant/CS-7641-Assignment1
+
+Data source: You can also download the data from Github
 NHANES:
-PIMA:
+https://wwwn.cdc.gov/nchs/nhanes/default.aspx
+You need to load needed XPT dataset from NHANES database and convert to CSV. I also uplad to data to the Github
+
+PIMA:PIMA Indian Diabetes Dataset 
+https://www.kaggle.com/uciml/pima-indians-diabetes-database
+I also upload the data to the Github
 
